@@ -372,7 +372,7 @@ npm run test
 
 <br/>
 
-**[Aman Kumar Yadav](https://github.com/aky2004) — Fullstack Developer**
+**[Aman Kumar Yadav](https://github.com/aky2004) — Fullstack-Developer**
 
 <br/>
 </div>
